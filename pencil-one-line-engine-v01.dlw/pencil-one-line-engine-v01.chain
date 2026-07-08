@@ -4,6 +4,6 @@ slug  : pencil-one-line-engine-v01
 seal  : 00ed92e7da1253597e2e41858852257b664ddb84ed91803e7cedd1f51f46b498
 prev  : 7e89e496a785863120340ed1f4c7d8f1fb2817990ce046b889e82614e4ee7870
 link  : 693a9a23de11c34c1eda58d58230648468f7a3d9147c7acfd01b9005d88df199
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
